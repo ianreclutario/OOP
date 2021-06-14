@@ -12,7 +12,7 @@ namespace UdemyOOP
 
         static void Main(string[] args)
         {
-            KpopGroup lpnr = new KpopGroup("Hirai Momo","Park Jihyo");
+            KpopGroup lpnr = new KpopGroup("Hirai Momo","Park Jihyo","Im Nayeon");
 
             lpnr.mainVocalist = "Park Jihyo";
             lpnr.leadVocalist = "Im Nayeon";
